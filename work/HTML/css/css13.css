@@ -1,0 +1,155 @@
+.background{
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(14,17,14,1) 50%, rgba(22,29,22,1) 100%);
+}
+.navbar{
+    margin-top: 0rem;
+    background-color: #161B16;
+    position: relative;
+}
+.logo{
+    margin-right: 4rem;
+}
+.navbar-element{
+    display: inline;
+    vertical-align: middle;
+    margin-left: 2rem;
+}
+.navbar-text{
+    font-family:"Roboto";
+    font-size: 18px;
+    color: #fff;
+    margin-left: 4rem ;
+    
+
+}
+.navbar-text:hover{
+    color: #0AF066;
+}
+.content{
+    margin-top: 0rem;
+}
+
+.inline-element{
+    
+    vertical-align: middle;
+    margin-left: 2rem;
+}
+
+.button{
+    width: auto;
+    height: 44px;
+    border: #0AF066 solid 1px;
+    color: #fff;
+    margin-left: 7.5rem;
+    padding-left: 3.5rem ;
+    padding-right: 3.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 2.5rem;
+    margin-right: 2rem ;
+}
+.button2{
+    width: auto;
+    height: 44px;
+    border: #0AF066 solid 1px;
+    color: #fff;
+    padding-left: 1.4rem ;
+    padding-right: 0.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 2.5rem;
+    
+}
+.button:hover{
+    box-shadow:
+    1px 1px #0AF066,
+    2px 2px #0AF066,
+    3px 3px #0AF066,
+    4px 4px #0AF066,
+    5px 5px #0AF066,
+    6px 6px #0AF066,
+    7px 7px #0AF066;
+  
+}
+.button2:hover{
+    box-shadow:
+    1px 1px #0AF066,
+    2px 2px #0AF066,
+    3px 3px #0AF066,
+    4px 4px #0AF066,
+    5px 5px #0AF066,
+    6px 6px #0AF066,
+    7px 7px #0AF066;
+  
+}
+
+.content{
+    margin-top: 0rem;
+}
+
+
+.numbers{
+    color: #0AF066;
+}
+
+.contentelement{
+    width: 597.47;
+    height: 331.9;
+    margin-left: 10rem;
+
+}   
+
+
+.infoelement{
+    color: #fff;
+    font-size: 70px;
+    font-family:"Roboto";
+} 
+       
+
+.btn-warning{
+    background: #0AF066;
+}
+.carousel-text{
+    color: #0AF066;
+    font-size: 36px;
+    font-family:"Roboto ";
+}
+
+.text{
+    font-family: 'Roboto'; 
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 1rem;
+
+    
+}
+.info-element2{
+   margin-left: 0rem;
+
+}
+
+.carousel-text{
+    
+    font-family: 'Roboto';
+}
+.caroules-actor{
+    color: #0AF066;
+    font-family: 'Roboto';
+    
+}
+.caroules-actor2{
+    color: #fff;
+    font-family: 'Roboto';
+
+}
+.movietext{
+    font-size: 40px;
+    color: #0AF066;
+    margin-top: -1.5rem;
+
+}
+.gallery-text{
+    color: #0AF066;
+    font-family: 'Roboto';
+    font-size: 36px;
+    margin-top: 3.5rem;
+}
